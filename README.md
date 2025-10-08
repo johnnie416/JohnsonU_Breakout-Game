@@ -34,7 +34,7 @@ A modern Python remake of the classic Breakout game using Pygame, built and bran
 
 3. Clone this repository:
 
-git clone https://github.com/YourUsername/JohnsonU_Breakout.git
+git clone https://github.com/johnnie416/JohnsonU_Breakout-Game.git
 
 
 4. Navigate into the folder and run the game:
